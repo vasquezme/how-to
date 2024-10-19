@@ -1,6 +1,5 @@
 # how-to
-
 <hr>
 
+A collection of guides
 # how-to-sql
-https://github.com/vasquezme/how-to-sql.git
