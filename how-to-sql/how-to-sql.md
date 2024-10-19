@@ -14,11 +14,11 @@ Summary:
 `:: SELECT ::` # Select data from the database <br>
 `:: FROM ::` # Specify the table to select data from <br>
 `:: WHERE ::` # Filter row based on a condition <br>
-`:: AS ::` #Rename a column or table an alias <br>
+`:: AS ::` # Rename a column or table an alias <br>
 `:: JOIN ::` # Combine row from two or more tables <br>
 `:: AND ::` # Combine multiple conditions, all must be true <br>
 `:: OR ::` # Combine multiple conditions, at least one must be true <br>
-`:: LIMIT ::` #Restrict the number or rows returned <br>
+`:: LIMIT ::` # Restrict the number or rows returned <br>
 `:: IN ::` # Specify multiple values in a WHERE clause <br>
 `:: CASE ::` # Create conditional logic within a SQL statement <br>
 `:: IS NULL ::` # Check for empty values <br>
